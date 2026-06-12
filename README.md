@@ -1,4 +1,4 @@
-## ✨ Hi there, Pereira's here (●'◡'●)
+## ✨ Hi there, Alice's here (●'◡'●)
 ###### _or you can just call me **Ashborn**, either~_
 I'm a Cybersecurity junior analyst, improving with maritime security on mind.
 
@@ -9,17 +9,13 @@ I'm a Cybersecurity junior analyst, improving with maritime security on mind.
 
 ###### Always protecting the digital ocean, one script at a time.
 
-## ⚡ Focus on
-- Pentesting in controlled environments (black, white or even grey box);
-- Protect onboard systems, AIS, smarts ports and offshore IoT;
+## 📌 Focus on
+- ⚔ Pentesting in controlled environments (black, white or even grey box);
+- ⚔ Protect onboard systems, AIS, smarts ports and offshore IoT;
 
-## Languages and Tools
+## 🎲 Languages and Tools
 <div style="display: inline_block"><br>
-   <img align="center" alt="Ash-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" />
-  <img align="center" alt="Ash-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="Ash-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" />
-  <img align="center" alt="Ash-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-  <img align="center" alt="Ash-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+   <img src="https://img.shields.io/badge/Hack_The_Box-001?style=social&logo=hackthebox&logoColor=%232A3FFB&labelColor=%232A3FFB&color=%232A3FFB" />
 </div>
           
           
