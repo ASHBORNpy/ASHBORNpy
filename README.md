@@ -15,6 +15,10 @@ I'm a Cybersecurity junior analyst, improving with maritime security on mind.
 
 ## 🎲 Languages and Tools
 <div style="display: inline_block"><br>
+   <img src="https://img.shields.io/badge/Kali_Linux-005?style=social&logo=kalilinux&logoColor=%232A3FFB&labelColor=%232A3FFB&color=%232A3FFB" />
+   <img src="https://img.shields.io/badge/Wireshark-004?style=social&logo=wireshark&logoColor=%232A3FFB&labelColor=%232A3FFB&color=%232A3FFB" />
+   <img src="https://img.shields.io/badge/Python-003?style=social&logo=python&logoColor=%232A3FFB&labelColor=%232A3FFB&color=%232A3FFB" />
+   <img src="https://img.shields.io/badge/Try_Hack_Me-002?style=social&logo=tryhackme&logoColor=%232A3FFB&labelColor=%232A3FFB&color=%232A3FFB" />
    <img src="https://img.shields.io/badge/Hack_The_Box-001?style=social&logo=hackthebox&logoColor=%232A3FFB&labelColor=%232A3FFB&color=%232A3FFB" />
 </div>
           
